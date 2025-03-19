@@ -1,4 +1,4 @@
-# 👨‍💻 **Ismail Sabbar - Full Stack Web Developer** 👨‍💻
+# 👨‍💻 ***Ismail Sabbar - Full Stack Web Developer | Data Analyst*** 👨‍💻
 
 Hi there! I'm **Ismail Sabbar**, a passionate **Full Stack Web Developer** with a deep focus on creating dynamic, high-performance websites and web applications. 
 
