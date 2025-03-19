@@ -1,12 +1,12 @@
 # 👨‍💻 Ismail Sabbar - Full Stack Web Developer | Data Analyst 👨‍💻  
 
-Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about **data-driven solutions** and **high-performance web applications**. I specialize in both frontend & backend development and thrive on solving complex problems.  
+Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about **data-driven solutions** and **high-performance web applications**. I specialize in both frontend & backend development, data science, and automation.  
 
 ---
 
 ## 🚀 About Me  
 🔹 Passionate about **scalable**, **high-quality software solutions**  
-🔹 Experienced in **Data Science**, **Machine Learning**, and **Web Development**  
+🔹 Experienced in **Data Science**, **Machine Learning**, **Web Development**, and **Automation**  
 🔹 Always learning and exploring new technologies  
 
 ---
@@ -28,6 +28,8 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 <p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### 🤖 **Web Scraping & Automation**  
@@ -58,7 +60,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ## 🌱 Currently Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Perfex%20CRM-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Perfex%20CRM%20Expert-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Advanced%20Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
