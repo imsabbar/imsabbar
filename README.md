@@ -1,80 +1,71 @@
-# 👨‍💻 **Ismail Sabbar - Full Stack Web Developer | Data Analyst** 👨‍💻
+# 👨‍💻 Ismail Sabbar - Full Stack Web Developer | Data Analyst 👨‍💻  
 
-Welcome to my profile! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with expertise in both frontend and backend development. I specialize in building high-performance websites and web applications. My work is focused on **data-driven solutions** and **personalized digital experiences**.
-
-### 🚀 **About Me**:
-I am passionate about solving complex problems and delivering scalable, high-quality solutions. Whether it's **data analysis**, **machine learning**, or **web development**, I strive to continuously learn and innovate.
+Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with a passion for **data-driven solutions** and **high-performance web applications**. I specialize in both frontend & backend development and thrive on solving complex problems.  
 
 ---
 
-### 🔧 **Skills & Expertise**:
-
-#### **Frontend Development**:
-- **HTML5** 🖥️
-- **CSS3** 🎨
-- **JavaScript** ⚡ (with **AJAX** & **jQuery**) 🔗
-- **WordPress** (with **Elementor**) 📝
-
-#### **Backend Development**:
-- **PHP** 💻
-- **CodeIgniter** 🔥
-
-#### **Web Scraping & Automation**:
-- **Python** 🐍
-- **BeautifulSoup4** 🍲
-- **Selenium** 🤖
-
-#### **Data Science & Machine Learning**:
-- **Jupyter Notebooks** 📓
-- **Python (Pandas, NumPy, Scikit-learn, TensorFlow)** 🔬
-- **Data Analysis & Visualization** 📊
-
-#### **Version Control & OS**:
-- **Git** 🦑
-- **GitHub** 📂
-- **Linux (Fedora WS)** 🐧
+## 🚀 About Me  
+🔹 Passionate about **scalable**, **high-quality software solutions**  
+🔹 Experienced in **Data Science**, **Machine Learning**, and **Web Development**  
+🔹 Always learning and exploring new technologies  
 
 ---
 
-### 🌱 **What I'm Currently Learning**:
-- **Machine Learning** with **TensorFlow** 🤖
-- **Advanced Data Science** techniques 📊
-- Exploring **WebAssembly** for performance optimization 🚀
+## 🔧 Skills & Expertise  
+
+### 🌐 **Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
+
+### 🖥️ **Backend Development**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white)  
+
+### 🤖 **Web Scraping & Automation**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8A2BE2?logo=python&logoColor=white)  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+
+### 📊 **Data Science & ML**  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+
+### 🔄 **Version Control & OS**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 
 ---
 
-### 🛠️ **Tools & Technologies**:
-- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-orange) ![CSS3](https://img.shields.io/badge/-CSS3-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-- **Backend**: ![PHP](https://img.shields.io/badge/-PHP-blue) ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-red)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-black) ![GitHub](https://img.shields.io/badge/-GitHub-lightgrey)
-- **Data Science**: ![Python](https://img.shields.io/badge/-Python-blue) ![Jupyter](https://img.shields.io/badge/-Jupyter-yellowgreen)
-- **Web Scraping**: ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-orange) ![Selenium](https://img.shields.io/badge/-Selenium-green)
+## 🌱 Currently Learning  
+- **React.js** ⚛️  
+- **Perfex CRM Module Customization** 🛠️  
+- **Advanced Data Science & ML** 🤖  
 
 ---
 
-### 🌐 **Live Projects**:
-Check out my personal website and portfolio:
-
-👉 [**Visit My Portfolio**](https://imsabbar.space/)
-
-You can also explore my projects, code, and demos on GitHub:
-
-👉 [**My GitHub**](https://github.com/imsabbar)
+## 🌐 Live Projects  
+🔗 [**My Portfolio**](https://imsabbar.space/)  
+🔗 [**GitHub Repositories**](https://github.com/imsabbar)  
 
 ---
 
-### 📞 **Contact Me**:
-- **Email**: [project@imsabbar.space](mailto:project@imsabbar.space)
-- **LinkedIn**: [Ismail Sabbar](https://www.linkedin.com/in/ismail-sabbar)
-- **YouTube Channel**: [@imsabbar](https://www.youtube.com/@imsabbar)
+## 📞 Contact Me  
+📧 **Email**: [project@imsabbar.space](mailto:project@imsabbar.space)  
+💼 **LinkedIn**: [Ismail Sabbar](https://www.linkedin.com/in/ismail-sabbar)  
+📺 **YouTube**: [@imsabbar](https://www.youtube.com/@imsabbar)  
 
 ---
 
-### ✨ **Fun Fact**:
-I love learning new technologies, building impactful digital solutions, and solving challenges with code! I'm always looking for ways to improve and create user-centric applications that make a difference.
+## 🎯 License  
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.  
 
 ---
 
-## 🎯 **License**
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+✨ _Building impactful digital solutions, one line of code at a time!_ 🚀  
