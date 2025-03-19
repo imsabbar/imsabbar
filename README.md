@@ -54,9 +54,11 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ---
 
 ## 🌱 Currently Learning  
-- **React.js** ⚛️  
-- **Perfex CRM Module Customization** 🛠️  
-- **Advanced Data Science & ML** 🤖  
+<p align="left">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Perfex%20CRM-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Advanced%20Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 ---
 
@@ -75,9 +77,17 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ---
 
 ## 📞 Contact Me  
-📧 **Email**: [project@imsabbar.space](mailto:project@imsabbar.space)  
-💼 **LinkedIn**: [Ismail Sabbar](https://www.linkedin.com/in/ismail-sabbar)  
-📺 **YouTube**: [@imsabbar](https://www.youtube.com/@imsabbar)  
+<p align="left">
+  <a href="mailto:project@imsabbar.space">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ismail-sabbar">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@imsabbar">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
