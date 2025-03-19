@@ -35,10 +35,8 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with a passion fo
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
 
-### 🛠 **Tools & Version Control**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+🛠 Tools & Version Control
+<p align="left"> <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" /> </p>
 
 ---
 
