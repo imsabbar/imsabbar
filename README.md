@@ -11,16 +11,16 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with a passion fo
 
 ---
 
-## 🔧 Skills & Expertise  
+## 🛠 Tech Stack  
 
-### 🌐 **Frontend Development**  
+### 🌐 **Frontend**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)  
 
-### 🖥️ **Backend Development**  
+### 🔥 **Backend**  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white)  
 
@@ -34,9 +34,8 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with a passion fo
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
 
-### 🔄 **Version Control & OS**  
+### 🛠 **Tools & Version Control**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
@@ -56,10 +55,24 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** with a passion fo
 
 ---
 
+## 📊 GitHub Stats  
+
+![Ismail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imsabbar&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imsabbar&layout=compact&theme=radical)  
+
+---
+
 ## 📞 Contact Me  
 📧 **Email**: [project@imsabbar.space](mailto:project@imsabbar.space)  
 💼 **LinkedIn**: [Ismail Sabbar](https://www.linkedin.com/in/ismail-sabbar)  
 📺 **YouTube**: [@imsabbar](https://www.youtube.com/@imsabbar)  
+
+---
+
+## 🚀 Want to Work Together?  
+I'm open to **freelance projects**, **collaborations**, and **exciting opportunities**!  
+
+📩 **Drop me a message**: [project@imsabbar.space](mailto:project@imsabbar.space)  
 
 ---
 
