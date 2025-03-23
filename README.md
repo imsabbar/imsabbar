@@ -28,6 +28,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 <p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Perfex%20CRM%20Expert-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
@@ -60,7 +61,6 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ## 🌱 Currently Learning  
 <p align="left">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Perfex%20CRM%20Expert-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
   <img src="https://img.shields.io/badge/-Advanced%20Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
