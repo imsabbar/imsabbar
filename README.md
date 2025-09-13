@@ -82,7 +82,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 
 ## 📞 Contact Me  
 <p align="left">
-  <a href="mailto:project@imsabbar.space">
+  <a href="mailto:contact@imsabbar.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ismail-sabbar">
@@ -98,7 +98,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ## 🚀 Want to Work Together?  
 I'm open to **freelance projects**, **collaborations**, and **exciting opportunities**!  
 
-📩 **Drop me a message**: [project@imsabbar.space](mailto:project@imsabbar.space)  
+📩 **Drop me a message**: [contact@imsabbar.contact](mailto:contact@imsabbar.com)  
 
 ---
 
