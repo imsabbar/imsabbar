@@ -7,6 +7,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ## 🚀 About Me  
 🔹 Passionate about **scalable**, **high-quality software solutions**  
 🔹 Experienced in **Data Science**, **Machine Learning**, **Web Development**, and **Automation**  
+🔹 **Perfex CRM Expert** with extensive module customization experience  
 🔹 Always learning and exploring new technologies  
 
 ---
@@ -20,24 +21,44 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/-AJAX-02569B?style=for-the-badge&logo=ajax&logoColor=white" />
-  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
 </p>
 
 ### 🔥 **Backend**  
 <p align="left">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Perfex%20CRM%20Expert-0088CC?style=for-the-badge&logo=crm&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🤖 **Web Scraping & Automation**  
+### 🏢 **CRM & Business Solutions**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-Perfex%20CRM%20Expert-0088CC?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CRM%20Module%20Development-FF6B35?style=for-the-badge&logo=modules&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Custom%20Modules-4CAF50?style=for-the-badge&logo=puzzle&logoColor=white" />
+</p>
+
+### 🌐 **WordPress Development**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Plugin%20Development-00749C?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Divi-8B5CF6?style=for-the-badge&logo=divi&logoColor=white" />
+</p>
+
+### 🤖 **Automation & Integration**  
+<p align="left">
+  <img src="https://img.shields.io/badge/-n8n%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Workflow%20Automation-FF9500?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/-API%20Integration-009688?style=for-the-badge&logo=api&logoColor=white" />
+</p>
+
+### 🕸️ **Web Scraping & Data Extraction**  
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-BeautifulSoup-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
 </p>
 
 ### 📊 **Data Science & ML**  
@@ -54,7 +75,30 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 </p>
+
+---
+
+## 🎯 Specializations  
+
+### 💼 **Perfex CRM Development**  
+- Custom module development following v3.3.1 best practices
+- Hook-based customizations without core modifications  
+- Database optimization and custom integrations
+- Third-party API integrations
+
+### 🔌 **WordPress Plugin Development**  
+- Custom plugin architecture and development
+- Elementor & Divi custom widgets/modules
+- WordPress REST API integrations
+- Performance optimization
+
+### 🔄 **Process Automation**  
+- n8n workflow automation setup
+- Business process digitization
+- Data synchronization between platforms
+- Custom automation solutions
 
 ---
 
@@ -62,6 +106,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 <p align="left">
   <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Advanced%20Data%20Science-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
@@ -77,6 +122,16 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
   <img src="https://github-readme-stats.vercel.app/api?username=imsabbar&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsabbar&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </p>
+
+---
+
+## 🏆 What I Bring to Your Project  
+✅ **Clean, maintainable code** following industry best practices  
+✅ **Scalable solutions** designed for growth  
+✅ **Database optimization** for performance  
+✅ **Custom integrations** and API development  
+✅ **Comprehensive testing** before deployment  
+✅ **Documentation** for future maintenance  
 
 ---
 
@@ -98,7 +153,7 @@ Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about 
 ## 🚀 Want to Work Together?  
 I'm open to **freelance projects**, **collaborations**, and **exciting opportunities**!  
 
-📩 **Drop me a message**: [contact@imsabbar.contact](mailto:contact@imsabbar.com)  
+📩 **Drop me a message**: [contact@imsabbar.com](mailto:contact@imsabbar.com)  
 
 ---
 
@@ -107,4 +162,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-✨ _Building impactful digital solutions, one line of code at a time!_ 🚀  
+✨ _Building impactful digital solutions, one line of code at a time!_ 🚀
