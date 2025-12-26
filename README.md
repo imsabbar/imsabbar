@@ -1,4 +1,4 @@
-# 👨‍💻 Ismail Sabbar - Full Stack Web Developer | Data Analyst 👨‍💻  
+# 👨‍💻 Ismail Sabbar - Full Stack Web Developer | Automation Engineer 🤖  
 
 Welcome! I'm **Ismail Sabbar**, a **Full Stack Web Developer** passionate about **data-driven solutions** and **high-performance web applications**. I specialize in both frontend & backend development, data science, and automation.  
 
